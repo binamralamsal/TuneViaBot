@@ -37,8 +37,6 @@ from Tune.utils.stream.stream import stream
             "vplay",
             "cplay",
             "cvplay",
-            "playforce",
-            "vplayforce",
             "cplayforce",
             "cvplayforce",
         ]
